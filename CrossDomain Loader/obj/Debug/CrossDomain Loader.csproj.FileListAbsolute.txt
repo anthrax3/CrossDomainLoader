@@ -1,0 +1,9 @@
+c:\users\gersy\documents\visual studio 2012\Projects\CrossDomain Loader\CrossDomain Loader\bin\Debug\CrossDomain Loader.exe
+c:\users\gersy\documents\visual studio 2012\Projects\CrossDomain Loader\CrossDomain Loader\bin\Debug\CrossDomain Loader.pdb
+c:\users\gersy\documents\visual studio 2012\Projects\CrossDomain Loader\CrossDomain Loader\obj\Debug\CrossDomain Loader.csprojResolveAssemblyReference.cache
+c:\users\gersy\documents\visual studio 2012\Projects\CrossDomain Loader\CrossDomain Loader\obj\Debug\CrossDomain_Loader.Form1.resources
+c:\users\gersy\documents\visual studio 2012\Projects\CrossDomain Loader\CrossDomain Loader\obj\Debug\CrossDomain_Loader.Properties.Resources.resources
+c:\users\gersy\documents\visual studio 2012\Projects\CrossDomain Loader\CrossDomain Loader\obj\Debug\CrossDomain Loader.csproj.GenerateResource.Cache
+c:\users\gersy\documents\visual studio 2012\Projects\CrossDomain Loader\CrossDomain Loader\obj\Debug\CrossDomain Loader.exe
+c:\users\gersy\documents\visual studio 2012\Projects\CrossDomain Loader\CrossDomain Loader\obj\Debug\CrossDomain Loader.pdb
+c:\users\gersy\documents\visual studio 2012\Projects\CrossDomain Loader\CrossDomain Loader\obj\Debug\CrossDomain_Loader.FormReport.resources
