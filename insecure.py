@@ -96,7 +96,7 @@ for lin in lines:
 				ErrorToPrin='Read Time out'
 			printx (stx.RED+' Error  	'+stx.yel+' '+ErrorToPrin+'')
 			time.sleep(3)
-
+print ''
 if len(vulnerable_domains) > 0:
 	printx('\n Vulnerable domains')
 	for l in vulnerable_domains:
